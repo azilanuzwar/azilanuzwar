@@ -1,6 +1,6 @@
 ### Hey there!
 
-<div>I'm Azila, QA enthusiast from Indonesia. Any ideas or suggestions? just connect with me <a href="https://www.linkedin.com/in/azilanuzwar/">here</a></div>
+<div>Aku Azila^^, seorang ibu rumah tangga yang tertarik dengan bidang pendidikan dan keberlanjutan, dimana saat ini nyambi juga sebagai QA. Ada saran? just connect with me <a href="https://www.linkedin.com/in/azilanuzwar/">here</a></div>
 
  ---
 <div align = 'center'>
