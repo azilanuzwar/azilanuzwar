@@ -1,6 +1,6 @@
 ### Hey there!
 
-<div>Aku Azila^^, seorang ibu rumah tangga yang tertarik dengan bidang pendidikan dan keberlanjutan, dimana saat ini nyambi juga sebagai QA. Ada saran? just connect with me <a href="https://www.linkedin.com/in/azilanuzwar/">here</a></div>
+<div>Hi! I'm Azila, a Quality Assurance engineer. Currently, I test every day and write articles regularly</div>
 
  ---
 <div align = 'center'>
